@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "bdd480c2-e959-4f78-bdcb-24d46c5e40e4")
-	(paper "A4")
+	(paper "A")
 	(lib_symbols
 		(symbol "ASCO_1"
 			(exclude_from_sim no)
@@ -668,7 +668,7 @@
 	)
 	(polyline
 		(pts
-			(xy 202.184 49.022) (xy 202.184 86.106)
+			(xy 201.93 49.022) (xy 201.93 87.63)
 		)
 		(stroke
 			(width 0.3)
@@ -678,7 +678,7 @@
 	)
 	(polyline
 		(pts
-			(xy 202.184 86.106) (xy 123.19 86.614)
+			(xy 201.93 87.63) (xy 122.936 87.63)
 		)
 		(stroke
 			(width 0.3)
@@ -758,7 +758,7 @@
 	)
 	(text "Peripherals"
 		(exclude_from_sim no)
-		(at 145.034 82.55 0)
+		(at 144.526 83.058 0)
 		(effects
 			(font
 				(size 5 5)
@@ -2586,7 +2586,7 @@
 		)
 	)
 	(sheet
-		(at 92.456 104.902)
+		(at 88.9 104.394)
 		(size 25.4 25.908)
 		(stroke
 			(width 0.1524)
@@ -2597,7 +2597,7 @@
 		)
 		(uuid "d40858ae-6444-4cc4-8b5b-1edd2e9d4c9e")
 		(property "Sheetname" "Power"
-			(at 102.108 117.348 0)
+			(at 98.552 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2606,7 +2606,7 @@
 			)
 		)
 		(property "Sheetfile" "Power.kicad_sch"
-			(at 96.52 119.888 0)
+			(at 92.964 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
