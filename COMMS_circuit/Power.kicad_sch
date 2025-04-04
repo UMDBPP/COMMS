@@ -5383,7 +5383,6 @@
 	)
 	(label "VIN"
 		(at 102.87 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5394,7 +5393,6 @@
 	)
 	(label "BATT_POWER"
 		(at 93.98 49.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

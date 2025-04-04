@@ -9047,7 +9047,6 @@
 	)
 	(label "RX_RF"
 		(at 21.59 148.59 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9058,7 +9057,6 @@
 	)
 	(label "RX_I_P"
 		(at 137.16 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9069,7 +9067,6 @@
 	)
 	(label "TX_Q_N"
 		(at 152.4 64.77 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9080,7 +9077,6 @@
 	)
 	(label "RX_Q_N"
 		(at 137.16 152.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9091,7 +9087,6 @@
 	)
 	(label "TX_Q_N"
 		(at 100.33 38.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9102,7 +9097,6 @@
 	)
 	(label "RX_Q_N"
 		(at 49.53 48.26 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9113,7 +9107,6 @@
 	)
 	(label "LO"
 		(at 166.37 31.75 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9124,7 +9117,6 @@
 	)
 	(label "TX_Q_P"
 		(at 152.4 57.15 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9135,7 +9127,6 @@
 	)
 	(label "TX_I_N"
 		(at 152.4 49.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9146,7 +9137,6 @@
 	)
 	(label "TX_I_N"
 		(at 100.33 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9157,7 +9147,6 @@
 	)
 	(label "BBPI"
 		(at 177.8 43.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9168,7 +9157,6 @@
 	)
 	(label "TX_I_P"
 		(at 100.33 45.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9179,7 +9167,6 @@
 	)
 	(label "I+"
 		(at 109.22 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9190,7 +9177,6 @@
 	)
 	(label "RX_I_P"
 		(at 49.53 30.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9201,7 +9187,6 @@
 	)
 	(label "BBMI"
 		(at 177.8 45.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9212,7 +9197,6 @@
 	)
 	(label "TX_RF"
 		(at 259.08 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9223,7 +9207,6 @@
 	)
 	(label "TX_I_P"
 		(at 152.4 41.91 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9234,7 +9217,6 @@
 	)
 	(label "BBPQ"
 		(at 177.8 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9245,7 +9227,6 @@
 	)
 	(label "DCO_Q"
 		(at 52.07 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9256,7 +9237,6 @@
 	)
 	(label "TX_Q_P"
 		(at 100.33 35.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9267,7 +9247,6 @@
 	)
 	(label "RX_Q_P"
 		(at 137.16 144.78 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9278,7 +9257,6 @@
 	)
 	(label "RX_Q_P"
 		(at 49.53 45.72 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9289,7 +9267,6 @@
 	)
 	(label "DCO_Q"
 		(at 100.33 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9300,7 +9277,6 @@
 	)
 	(label "LO_TUNE"
 		(at 194.31 134.62 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9311,7 +9287,6 @@
 	)
 	(label "LO_TUNE"
 		(at 100.33 53.34 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9322,7 +9297,6 @@
 	)
 	(label "I-"
 		(at 109.22 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9333,7 +9307,6 @@
 	)
 	(label "RX_I_N"
 		(at 49.53 33.02 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9344,7 +9317,6 @@
 	)
 	(label "RX_I_N"
 		(at 137.16 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9355,7 +9327,6 @@
 	)
 	(label "Q+"
 		(at 109.22 149.86 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9366,7 +9337,6 @@
 	)
 	(label "LO"
 		(at 224.79 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9377,7 +9347,6 @@
 	)
 	(label "DCO_I"
 		(at 52.07 129.54 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9388,7 +9357,6 @@
 	)
 	(label "Q-"
 		(at 109.22 152.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9399,7 +9367,6 @@
 	)
 	(label "RX_RF"
 		(at 205.74 107.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9410,7 +9377,6 @@
 	)
 	(label "DCO_I"
 		(at 100.33 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9421,7 +9387,6 @@
 	)
 	(label "TX_RF"
 		(at 214.63 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9432,7 +9397,6 @@
 	)
 	(label "BBMQ"
 		(at 177.8 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9443,7 +9407,6 @@
 	)
 	(label "LO"
 		(at 144.78 166.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9455,7 +9418,6 @@
 	(hierarchical_label "AD4"
 		(shape tri_state)
 		(at 40.64 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9467,7 +9429,6 @@
 	(hierarchical_label "TTCK"
 		(shape input)
 		(at 182.88 38.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9479,7 +9440,6 @@
 	(hierarchical_label "AD2"
 		(shape tri_state)
 		(at 40.64 60.96 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9491,7 +9451,6 @@
 	(hierarchical_label "SPI_SDO"
 		(shape output)
 		(at 114.3 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9503,7 +9462,6 @@
 	(hierarchical_label "AD8"
 		(shape tri_state)
 		(at 40.64 76.2 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9515,7 +9473,6 @@
 	(hierarchical_label "AD5"
 		(shape tri_state)
 		(at 40.64 68.58 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9527,7 +9484,6 @@
 	(hierarchical_label "DA7"
 		(shape tri_state)
 		(at 100.33 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9539,7 +9495,6 @@
 	(hierarchical_label "SPI_SDI"
 		(shape input)
 		(at 248.92 35.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9551,7 +9506,6 @@
 	(hierarchical_label "SPI_CS_M"
 		(shape input)
 		(at 248.92 40.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9563,7 +9517,6 @@
 	(hierarchical_label "SPI_CLK"
 		(shape input)
 		(at 100.33 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9575,7 +9528,6 @@
 	(hierarchical_label "DA2"
 		(shape tri_state)
 		(at 49.53 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9587,7 +9539,6 @@
 	(hierarchical_label "AD9"
 		(shape tri_state)
 		(at 40.64 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9599,7 +9550,6 @@
 	(hierarchical_label "DA3"
 		(shape tri_state)
 		(at 49.53 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9611,7 +9561,6 @@
 	(hierarchical_label "AD3"
 		(shape tri_state)
 		(at 40.64 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9623,7 +9572,6 @@
 	(hierarchical_label "DA1"
 		(shape tri_state)
 		(at 49.53 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9635,7 +9583,6 @@
 	(hierarchical_label "Data_clk"
 		(shape input)
 		(at 49.53 38.1 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9647,7 +9594,6 @@
 	(hierarchical_label "SPI_SDI"
 		(shape input)
 		(at 100.33 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9659,7 +9605,6 @@
 	(hierarchical_label "DA8"
 		(shape tri_state)
 		(at 100.33 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9671,7 +9616,6 @@
 	(hierarchical_label "SPI_CLK"
 		(shape input)
 		(at 248.92 38.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9683,7 +9627,6 @@
 	(hierarchical_label "SPI_CS_FE"
 		(shape input)
 		(at 100.33 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9695,7 +9638,6 @@
 	(hierarchical_label "SPI_SDO"
 		(shape output)
 		(at 248.92 33.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9707,7 +9649,6 @@
 	(hierarchical_label "AD1"
 		(shape tri_state)
 		(at 40.64 58.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9719,7 +9660,6 @@
 	(hierarchical_label "AD0"
 		(shape tri_state)
 		(at 40.64 55.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9731,7 +9671,6 @@
 	(hierarchical_label "AD6"
 		(shape tri_state)
 		(at 40.64 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9743,7 +9682,6 @@
 	(hierarchical_label "DA6"
 		(shape tri_state)
 		(at 100.33 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9755,7 +9693,6 @@
 	(hierarchical_label "DA9"
 		(shape tri_state)
 		(at 100.33 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9767,7 +9704,6 @@
 	(hierarchical_label "AD7"
 		(shape tri_state)
 		(at 40.64 73.66 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9779,7 +9715,6 @@
 	(hierarchical_label "DA0"
 		(shape tri_state)
 		(at 49.53 86.36 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9791,7 +9726,6 @@
 	(hierarchical_label "DA5"
 		(shape tri_state)
 		(at 100.33 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9803,7 +9737,6 @@
 	(hierarchical_label "DA4"
 		(shape tri_state)
 		(at 100.33 96.52 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
