@@ -1,0 +1,2 @@
+@W: MT529 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":266:3:266:8|Found inferred clock iceblink40_demo|CLK_3P3_MHZ which controls 39 sequential elements including CLK_DIV.COUNTER[19:0]. This clock has no specified timing constraint which may prevent conversion of gated or generated clocks and may adversely impact design performance. 
+@W: MF511 |Found issues with constraints. Please check constraint checker report "C:\Users\Herman\Documents\School_UMD\BPP\Payloads_and_projects\COMMS\Software\COMMS\COMMS_Implmnt\COMMS_cck.rpt" .

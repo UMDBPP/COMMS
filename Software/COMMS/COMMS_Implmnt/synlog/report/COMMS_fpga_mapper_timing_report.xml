@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- *************************************************************************************
+FILE DESCRIPTION
+Max Top 5 critical clocks will be reported. For rest user needs to refer to Detailed report
+*******************************************************************************************-->
+<report_table display_priority="2" name="Timing Summary">
+<report_link name="Detailed report">
+<data>C:\Users\Herman\Documents\School_UMD\BPP\Payloads_and_projects\COMMS\Software\COMMS\COMMS_Implmnt\synlog\COMMS_fpga_mapper.srr</data>
+<title>START OF TIMING REPORT</title>
+</report_link>
+<row>
+<data tcl_name="clock_name">Clock Name</data>
+<data tcl_name="req_freq">Req Freq</data>
+<data tcl_name="est_freq">Est Freq</data>
+<data tcl_name="slack">Slack</data>
+</row>
+<row>
+<data>clk0</data>
+<data>100.0 MHz</data>
+<data>100.8 MHz</data>
+<data>0.078</data>
+</row>
+<row>
+<data>clk2</data>
+<data>100.0 MHz</data>
+<data>129.3 MHz</data>
+<data>3.980</data>
+</row>
+<row>
+<data>clk3</data>
+<data>100.0 MHz</data>
+<data>129.3 MHz</data>
+<data>2.266</data>
+</row>
+<row>
+<data>iceblink40_demo|CLK_3P3_MHZ</data>
+<data>1.0 MHz</data>
+<data>102.7 MHz</data>
+<data>990.266</data>
+</row>
+</report_table>

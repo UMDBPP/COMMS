@@ -1,0 +1,15 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CG364 :"C:\lscc\iCEcube2.2020.12\examples\blinky\iCElab.v":257:7:257:24|Synthesizing module CLK_DIVIDER_3P3MHz in library work.
+@N: CG364 :"C:\lscc\iCEcube2.2020.12\examples\blinky\iCElab.v":297:7:297:16|Synthesizing module ROTATE_LED in library work.
+@N: CG364 :"C:\lscc\iCEcube2.2020.12\examples\blinky\iCElab.v":316:7:316:18|Synthesizing module DISPLAY_MODE in library work.
+@N: CG364 :"C:\lscc\iCEcube2.2020.12\examples\blinky\iCElab.v":278:7:278:21|Synthesizing module TIMEOUT_COUNTER in library work.
+@N: CG364 :"C:\lscc\iCEcube2.2020.12\examples\blinky\iCElab.v":163:7:163:21|Synthesizing module CAPSENSEBUTTONS in library work.
+@N: CG364 :"C:\lscc\iCEcube2.2020.12\examples\blinky\iCElab.v":333:7:333:26|Synthesizing module DIOX_SHIFTER_DISPLAY in library work.
+@N: CG364 :"C:\lscc\iCEcube2.2020.12\examples\blinky\iCElab.v":348:7:348:25|Synthesizing module DIOX_RETURN_DISPLAY in library work.
+@N: CG364 :"C:\lscc\iCEcube2.2020.12\examples\blinky\iCElab.v":375:7:375:18|Synthesizing module Digilent_IOX in library work.
+@N: CG364 :"C:\lscc\iCEcube2.2020.12\examples\blinky\iCElab.v":16:7:16:21|Synthesizing module iceblink40_demo in library work.
+@N|Running in 64-bit mode
+@N: NF107 :"C:\lscc\iCEcube2.2020.12\examples\blinky\iCElab.v":16:7:16:21|Selected library: work cell: iceblink40_demo view verilog as top level
+@N: NF107 :"C:\lscc\iCEcube2.2020.12\examples\blinky\iCElab.v":16:7:16:21|Selected library: work cell: iceblink40_demo view verilog as top level
+

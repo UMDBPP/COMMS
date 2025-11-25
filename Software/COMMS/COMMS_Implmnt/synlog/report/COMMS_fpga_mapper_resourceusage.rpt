@@ -1,0 +1,30 @@
+---------------------------------------
+Resource Usage Report for iceblink40_demo 
+
+Mapping to part: ice40hx4ktq144
+Cell usage:
+GND             8 uses
+SB_CARRY        84 uses
+SB_DFF          40 uses
+SB_DFFE         73 uses
+SB_DFFESR       23 uses
+SB_DFFSR        33 uses
+SB_DFFSS        1 use
+SB_GB           4 uses
+VCC             8 uses
+SB_LUT4         314 uses
+
+I/O ports: 22
+I/O primitives: 22
+SB_GB_IO       3 uses
+SB_IO          19 uses
+
+I/O Register bits:                  0
+Register bits not including I/Os:   170 (4%)
+
+@S |Mapping Summary:
+Total  LUTs: 314 (8%)
+
+Distribution of All Consumed LUTs = LUT4 
+Distribution of All Consumed Luts 314 = 314 
+

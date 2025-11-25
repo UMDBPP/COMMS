@@ -1,0 +1,34 @@
+@N: MF248 |Running in 64-bit mode.
+@N: MF666 |Clock conversion enabled. (Command "set_option -fix_gated_and_generated_clocks 1" in the project file.)
+@N: MT204 |Auto Constrain mode is disabled because clocks are defined in the SDC file
+@N: MO231 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":266:3:266:8|Found counter in view:work.CLK_DIVIDER_3P3MHz(verilog) instance COUNTER[19:0] 
+@N: BN362 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":438:3:438:8|Removing sequential instance USB_DEBUG.VButtons[4] (in view: work.iceblink40_demo(verilog)) because it does not drive other instances.
+@N: BN362 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":438:3:438:8|Removing sequential instance USB_DEBUG.VButtons[5] (in view: work.iceblink40_demo(verilog)) because it does not drive other instances.
+@N: BN362 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":438:3:438:8|Removing sequential instance USB_DEBUG.VButtons[9] (in view: work.iceblink40_demo(verilog)) because it does not drive other instances.
+@N: BN362 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":438:3:438:8|Removing sequential instance USB_DEBUG.VButtons[10] (in view: work.iceblink40_demo(verilog)) because it does not drive other instances.
+@N: BN362 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":438:3:438:8|Removing sequential instance USB_DEBUG.VButtons[11] (in view: work.iceblink40_demo(verilog)) because it does not drive other instances.
+@N: BN362 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":438:3:438:8|Removing sequential instance USB_DEBUG.VButtons[12] (in view: work.iceblink40_demo(verilog)) because it does not drive other instances.
+@N: BN362 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":438:3:438:8|Removing sequential instance USB_DEBUG.VSwitches[4] (in view: work.iceblink40_demo(verilog)) because it does not drive other instances.
+@N: BN362 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":438:3:438:8|Removing sequential instance USB_DEBUG.VSwitches[5] (in view: work.iceblink40_demo(verilog)) because it does not drive other instances.
+@N: BN362 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":438:3:438:8|Removing sequential instance USB_DEBUG.VSwitches[10] (in view: work.iceblink40_demo(verilog)) because it does not drive other instances.
+@N: BN362 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":438:3:438:8|Removing sequential instance USB_DEBUG.VSwitches[11] (in view: work.iceblink40_demo(verilog)) because it does not drive other instances.
+@N: BN362 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":438:3:438:8|Removing sequential instance USB_DEBUG.VSwitches[12] (in view: work.iceblink40_demo(verilog)) because it does not drive other instances.
+@N: BN362 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":438:3:438:8|Removing sequential instance USB_DEBUG.VSwitches[13] (in view: work.iceblink40_demo(verilog)) because it does not drive other instances.
+@N: BN362 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":438:3:438:8|Removing sequential instance USB_DEBUG.VButtons[8] (in view: work.iceblink40_demo(verilog)) because it does not drive other instances.
+@N: BN362 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":438:3:438:8|Removing sequential instance USB_DEBUG.VButtons[7] (in view: work.iceblink40_demo(verilog)) because it does not drive other instances.
+@N: BN362 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":438:3:438:8|Removing sequential instance USB_DEBUG.VButtons[6] (in view: work.iceblink40_demo(verilog)) because it does not drive other instances.
+@N: FX1017 :|SB_GB inserted on the net LED_CLOCK.
+@N: FX1016 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":28:12:28:15|SB_GB_IO inserted on the port DSTB.
+@N: FX1016 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":17:12:17:22|SB_GB_IO inserted on the port CLK_3P3_MHZ.
+@N: FX1016 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":27:12:27:15|SB_GB_IO inserted on the port ASTB.
+@N: FX1017 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":438:3:438:8|SB_GB inserted on the net VButtons[13].
+@N: FX1017 :|SB_GB inserted on the net LIGHTBAR_DISPLAY.SHIFTER7_0_i.
+@N: FX1017 :|SB_GB inserted on the net VButtons_i_0[14].
+@N: BW103 |The default time unit for the Synopsys Constraint File (SDC or FDC) is 1ns.
+@N: BW107 |Synopsys Constraint File capacitance units using default value of 1pF 
+@N: FX1056 |Writing EDF file: C:\Users\Herman\Documents\School_UMD\BPP\Payloads_and_projects\COMMS\Software\COMMS\COMMS_Implmnt\COMMS.edf
+@N: MT615 |Found clock clk3 with period 10.00ns 
+@N: MT615 |Found clock clk2 with period 10.00ns 
+@N: MT615 |Found clock clk0 with period 10.00ns 
+@N: MT320 |This timing report is an estimate of place and route data. For final timing results, use the FPGA vendor place and route report.
+@N: MT322 |Clock constraints include only register-to-register paths associated with each individual clock.

@@ -1,0 +1,23 @@
+#OPTIONS:"|-layerid|0|-orig_srs|C:\\Users\\Herman\\Documents\\School_UMD\\BPP\\Payloads_and_projects\\COMMS\\Software\\COMMS\\COMMS_Implmnt\\synwork\\COMMS_comp.srs|-prodtype|synplify_pro|-primux|-fixsmult|-infer_seqShift|-ice|-sdff_counter|-nram|-divnmod|-nostructver|-I|C:\\Users\\Herman\\Documents\\School_UMD\\BPP\\Payloads_and_projects\\COMMS\\Software\\COMMS\\|-I|C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib|-v2001|-devicelib|C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\generic\\sb_ice40.v|-encrypt|-pro|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-lib|work"
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\bin64\\c_ver.exe":1744045099
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\generic\\sb_ice40.v":1744045103
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vlog\\hypermods.v":1744045105
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vlog\\umr_capim.v":1744045105
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vlog\\scemi_objects.v":1744045105
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\synpbase\\lib\\vlog\\scemi_pipes.svh":1744045105
+#CUR:"C:\\lscc\\iCEcube2.2020.12\\examples\\blinky\\iCElab.v":1744045083
+0			"C:\lscc\iCEcube2.2020.12\examples\blinky\iCElab.v" verilog
+#Dependency Lists(Uses List)
+0 -1
+#Dependency Lists(Users Of)
+0 -1
+#Design Unit to File Association
+module work iceblink40_demo 0
+module work Digilent_IOX 0
+module work DIOX_RETURN_DISPLAY 0
+module work DIOX_SHIFTER_DISPLAY 0
+module work CAPSENSEBUTTONS 0
+module work TIMEOUT_COUNTER 0
+module work DISPLAY_MODE 0
+module work ROTATE_LED 0
+module work CLK_DIVIDER_3P3MHz 0

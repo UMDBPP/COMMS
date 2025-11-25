@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "COMMS_footprints")(type "KiCad")(uri "C:/Users/Herman/Documents/School_UMD/BPP/Payloads_and_projects/COMMS/COMMS_circuit/COMMS_footprints.pretty")(options "")(descr ""))
+)

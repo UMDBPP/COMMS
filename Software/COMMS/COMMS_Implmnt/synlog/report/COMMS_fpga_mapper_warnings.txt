@@ -1,0 +1,21 @@
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":266:3:266:8|User-specified initial value defined for instance CLK_DIV.COUNTER[19:0] is being ignored. 
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":305:0:305:5|User-specified initial value defined for instance BLINKY.ROTATE[5:0] is being ignored. 
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":356:4:356:9|User-specified initial value defined for instance FromFPGA_DISPLAY.DATA_FROM_FPGA[31:0] is being ignored. 
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":340:4:340:9|User-specified initial value defined for instance LIGHTBAR_DISPLAY.SHIFTER[23:0] is being ignored. 
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":219:2:219:7|User-specified initial value defined for instance BUTTONS.SAMPLE_BTN4_LAST is being ignored. 
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":219:2:219:7|User-specified initial value defined for instance BUTTONS.SAMPLE_BTN3_LAST is being ignored. 
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":219:2:219:7|User-specified initial value defined for instance BUTTONS.SAMPLE_BTN2_LAST is being ignored. 
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":219:2:219:7|User-specified initial value defined for instance BUTTONS.SAMPLE_BTN1_LAST is being ignored. 
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":219:2:219:7|User-specified initial value defined for instance BUTTONS.SAMPLE_BTN4 is being ignored. 
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":219:2:219:7|User-specified initial value defined for instance BUTTONS.SAMPLE_BTN3 is being ignored. 
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":219:2:219:7|User-specified initial value defined for instance BUTTONS.SAMPLE_BTN2 is being ignored. 
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":219:2:219:7|User-specified initial value defined for instance BUTTONS.SAMPLE_BTN1 is being ignored. 
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":213:2:213:7|User-specified initial value defined for instance BUTTONS.STATUS_ALL_BUTTONS_LAST is being ignored. 
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":205:2:205:7|User-specified initial value defined for instance BUTTONS.STATUS_ALL_BUTTONS is being ignored. 
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":242:2:242:7|User-specified initial value defined for instance BUTTONS.BTN4_TOGGLE_STATUS is being ignored. 
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":242:2:242:7|User-specified initial value defined for instance BUTTONS.BTN3_TOGGLE_STATUS is being ignored. 
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":242:2:242:7|User-specified initial value defined for instance BUTTONS.BTN2_TOGGLE_STATUS is being ignored. 
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":242:2:242:7|User-specified initial value defined for instance BUTTONS.BTN1_TOGGLE_STATUS is being ignored. 
+@W: FX1039 :"c:\lscc\icecube2.2020.12\examples\blinky\icelab.v":286:3:286:8|User-specified initial value defined for instance DELAY_5_SECONDS.TIMEOUT_COUNT[3:0] is being ignored. 
+@W: MT420 |Found inferred clock iceblink40_demo|CLK_3P3_MHZ with period 1000.00ns. Please declare a user-defined clock on object "p:CLK_3P3_MHZ"
+@W: MT548 :"c:/lscc/icecube2.2020.12/examples/blinky/icelab.sdc":3:0:3:0|Source for clock clk1 not found in netlist. Run the constraint checker to verify if constraints are applied correctly.

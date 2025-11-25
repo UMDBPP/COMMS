@@ -1,0 +1,214 @@
+#### START OF AREA REPORT #####[
+
+Part:			ICE40HX4KTQ144 (Lattice)
+
+-------------------------------------------------------------------------------
+########   Utilization report for  Top level view:   iceblink40_demo   ########
+===============================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     170                100 %                
+==================================================
+Total SEQUENTIAL ELEMENTS in the block iceblink40_demo:	170 (27.73 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       314                100 %                
+CARRYS     84                 100 %                
+===================================================
+Total COMBINATIONAL LOGIC in the block iceblink40_demo:	398 (64.93 % Utilization)
+
+
+IO PADS
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+PADS     26                 100 %                
+=================================================
+Total IO PADS in the block iceblink40_demo:	26 (4.24 % Utilization)
+
+---------------------------------------------------------------------
+########   Utilization report for  cell:   CAPSENSEBUTTONS   ########
+Instance path:   iceblink40_demo.CAPSENSEBUTTONS                     
+=====================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     14                 8.24 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block iceblink40_demo.CAPSENSEBUTTONS:	14 (2.28 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+LUTS     14                 4.46 %               
+=================================================
+Total COMBINATIONAL LOGIC in the block iceblink40_demo.CAPSENSEBUTTONS:	14 (2.28 % Utilization)
+
+------------------------------------------------------------------------
+########   Utilization report for  cell:   CLK_DIVIDER_3P3MHz   ########
+Instance path:   iceblink40_demo.CLK_DIVIDER_3P3MHz                     
+========================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     24                 14.1 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block iceblink40_demo.CLK_DIVIDER_3P3MHz:	24 (3.92 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       27                 8.6 %                
+CARRYS     19                 22.6 %               
+===================================================
+Total COMBINATIONAL LOGIC in the block iceblink40_demo.CLK_DIVIDER_3P3MHz:	46 (7.50 % Utilization)
+
+-------------------------------------------------------------------------
+########   Utilization report for  cell:   DIOX_RETURN_DISPLAY   ########
+Instance path:   iceblink40_demo.DIOX_RETURN_DISPLAY                     
+=========================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     32                 18.8 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block iceblink40_demo.DIOX_RETURN_DISPLAY:	32 (5.22 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       126                40.1 %               
+CARRYS     62                 73.8 %               
+===================================================
+Total COMBINATIONAL LOGIC in the block iceblink40_demo.DIOX_RETURN_DISPLAY:	188 (30.67 % Utilization)
+
+--------------------------------------------------------------------------
+########   Utilization report for  cell:   DIOX_SHIFTER_DISPLAY   ########
+Instance path:   iceblink40_demo.DIOX_SHIFTER_DISPLAY                     
+==========================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     24                 14.1 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block iceblink40_demo.DIOX_SHIFTER_DISPLAY:	24 (3.92 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+LUTS     5                  1.59 %               
+=================================================
+Total COMBINATIONAL LOGIC in the block iceblink40_demo.DIOX_SHIFTER_DISPLAY:	5 (0.82 % Utilization)
+
+
+IO PADS
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+PADS     2                  7.69 %               
+=================================================
+Total IO PADS in the block iceblink40_demo.DIOX_SHIFTER_DISPLAY:	2 (0.33 % Utilization)
+
+------------------------------------------------------------------
+########   Utilization report for  cell:   DISPLAY_MODE   ########
+Instance path:   iceblink40_demo.DISPLAY_MODE                     
+==================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     1                  0.5880 %             
+==================================================
+Total SEQUENTIAL ELEMENTS in the block iceblink40_demo.DISPLAY_MODE:	1 (0.16 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+LUTS     1                  0.3180 %             
+=================================================
+Total COMBINATIONAL LOGIC in the block iceblink40_demo.DISPLAY_MODE:	1 (0.16 % Utilization)
+
+------------------------------------------------------------------
+########   Utilization report for  cell:   Digilent_IOX   ########
+Instance path:   iceblink40_demo.Digilent_IOX                     
+==================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     65                 38.2 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block iceblink40_demo.Digilent_IOX:	65 (10.60 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+LUTS     125                39.8 %               
+=================================================
+Total COMBINATIONAL LOGIC in the block iceblink40_demo.Digilent_IOX:	125 (20.39 % Utilization)
+
+
+IO PADS
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+PADS     1                  3.85 %               
+=================================================
+Total IO PADS in the block iceblink40_demo.Digilent_IOX:	1 (0.16 % Utilization)
+
+----------------------------------------------------------------
+########   Utilization report for  cell:   ROTATE_LED   ########
+Instance path:   iceblink40_demo.ROTATE_LED                     
+================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     6                  3.53 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block iceblink40_demo.ROTATE_LED:	6 (0.98 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+LUTS     6                  1.91 %               
+=================================================
+Total COMBINATIONAL LOGIC in the block iceblink40_demo.ROTATE_LED:	6 (0.98 % Utilization)
+
+---------------------------------------------------------------------
+########   Utilization report for  cell:   TIMEOUT_COUNTER   ########
+Instance path:   iceblink40_demo.TIMEOUT_COUNTER                     
+=====================================================================
+
+SEQUENTIAL ELEMENTS
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+FLOPS     4                  2.35 %               
+==================================================
+Total SEQUENTIAL ELEMENTS in the block iceblink40_demo.TIMEOUT_COUNTER:	4 (0.65 % Utilization)
+
+
+COMBINATIONAL LOGIC
+Name       Total elements     Utilization     Notes
+---------------------------------------------------
+LUTS       5                  1.59 %               
+CARRYS     3                  3.57 %               
+===================================================
+Total COMBINATIONAL LOGIC in the block iceblink40_demo.TIMEOUT_COUNTER:	8 (1.31 % Utilization)
+
+
+##### END OF AREA REPORT #####]
+

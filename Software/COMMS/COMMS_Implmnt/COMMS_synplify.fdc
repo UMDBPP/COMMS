@@ -1,0 +1,15 @@
+
+#1001 : create_clock -period 10.000000 -name clk3 [get_ports ASTB]
+# line 1 in c:/lscc/icecube2.2020.12/examples/blinky/icelab.sdc
+
+create_clock -period {10.000} -name {clk3} [get_ports {ASTB}]
+
+#1002 : create_clock -period 10.000000 -name clk2 [get_ports DSTB]
+# line 2 in c:/lscc/icecube2.2020.12/examples/blinky/icelab.sdc
+
+create_clock -period {10.000} -name {clk2} [get_ports {DSTB}]
+
+#1004 : create_clock -period 10.000000 -name clk0 [get_nets LED_CLOCK]
+# line 4 in c:/lscc/icecube2.2020.12/examples/blinky/icelab.sdc
+
+create_clock -period {10.000} -name {clk0} [get_nets {LED_CLOCK}]

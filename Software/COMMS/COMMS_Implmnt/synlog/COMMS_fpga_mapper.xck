@@ -1,0 +1,4 @@
+CKID0001:@|S:DSTB_ibuf_gb_io@|E:USB_DEBUG.CommValidRegister[7]@|F:@syn_sample_clock_path==CKID0001@|M:ClockId0001 
+CKID0002:@|S:CLK_3P3_MHZ_ibuf_gb_io@|E:BUTTONS.STATUS_ALL_BUTTONS_LAST@|F:@syn_sample_clock_path==CKID0002@|M:ClockId0002 
+CKID0003:@|S:ASTB_ibuf_gb_io@|E:USB_DEBUG.AddressRegister[7]@|F:@syn_sample_clock_path==CKID0003@|M:ClockId0003 
+CKID0004:@|S:LED_CLOCK_keep@|E:FromFPGA_DISPLAY.DATA_FROM_FPGA[31]@|F:@syn_sample_clock_path==CKID0004@|M:ClockId0004 
