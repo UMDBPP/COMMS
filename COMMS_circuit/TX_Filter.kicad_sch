@@ -1,12 +1,14 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "665a6ed9-9433-47d4-995e-f10f24701034")
 	(paper "A")
 	(lib_symbols
 		(symbol "Device:C"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0.254)
 			)
@@ -79,7 +81,7 @@
 			(symbol "C_0_1"
 				(polyline
 					(pts
-						(xy -2.032 -0.762) (xy 2.032 -0.762)
+						(xy -2.032 0.762) (xy 2.032 0.762)
 					)
 					(stroke
 						(width 0.508)
@@ -91,7 +93,7 @@
 				)
 				(polyline
 					(pts
-						(xy -2.032 0.762) (xy 2.032 0.762)
+						(xy -2.032 -0.762) (xy 2.032 -0.762)
 					)
 					(stroke
 						(width 0.508)
@@ -140,11 +142,16 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Device:L"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 1.016) hide)
+				(offset 1.016)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -211,32 +218,8 @@
 			)
 			(symbol "L_0_1"
 				(arc
-					(start 0 -2.54)
-					(mid 0.6323 -1.905)
-					(end 0 -1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 -1.27)
-					(mid 0.6323 -0.635)
-					(end 0 0)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 0)
-					(mid 0.6323 0.635)
+					(start 0 2.54)
+					(mid 0.6323 1.905)
 					(end 0 1.27)
 					(stroke
 						(width 0)
@@ -248,8 +231,32 @@
 				)
 				(arc
 					(start 0 1.27)
-					(mid 0.6323 1.905)
-					(end 0 2.54)
+					(mid 0.6323 0.635)
+					(end 0 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0)
+					(mid 0.6323 -0.635)
+					(end 0 -1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -1.27)
+					(mid 0.6323 -1.905)
+					(end 0 -2.54)
 					(stroke
 						(width 0)
 						(type default)
@@ -297,9 +304,12 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Device:R"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
 			)
@@ -418,12 +428,17 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "power:GND"
 			(power)
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -514,6 +529,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 	)
 	(junction
@@ -722,7 +738,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28eb4ba6-b887-4ad7-9fc9-b7bd9993d332")
-		(property "Reference" "L14"
+		(property "Reference" "L6"
 			(at 109.22 85.0899 0)
 			(effects
 				(font
@@ -804,7 +820,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ef29545-3ec7-4467-a9f9-af6c8fb98c04")
-		(property "Reference" "L15"
+		(property "Reference" "L5"
 			(at 123.19 76.2 90)
 			(effects
 				(font
@@ -884,7 +900,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "345c1e90-fe03-4940-b1e8-ea917f0ee5b3")
-		(property "Reference" "L13"
+		(property "Reference" "L4"
 			(at 88.9 76.2 90)
 			(effects
 				(font
@@ -964,7 +980,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77fd297e-0026-455e-b417-4cbad08a4973")
-		(property "Reference" "C35"
+		(property "Reference" "C25"
 			(at 114.3 73.66 90)
 			(effects
 				(font
@@ -1044,7 +1060,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9eca5cf7-a0be-4802-aece-4ae05d54dd76")
-		(property "Reference" "R61"
+		(property "Reference" "R58"
 			(at 102.87 85.0899 0)
 			(effects
 				(font
@@ -1126,7 +1142,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c16cc0c0-1267-475d-baeb-e3f207b5bb08")
-		(property "Reference" "C33"
+		(property "Reference" "C11"
 			(at 80.01 73.66 90)
 			(effects
 				(font
@@ -1205,7 +1221,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c4cfb1e4-afd9-4082-bf1f-1bb36c52acc0")
-		(property "Reference" "C34"
+		(property "Reference" "C26"
 			(at 87.122 85.09 0)
 			(effects
 				(font
@@ -1287,7 +1303,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fdc0fbe0-1073-46d5-9cd6-b98be73600d2")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR018"
 			(at 100.33 99.06 0)
 			(effects
 				(font

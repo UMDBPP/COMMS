@@ -268,6 +268,22 @@
           ""
         ],
         [
+          "hole_clearance|133450000|114495000|79a152be-6ffd-41d2-a21c-4320bb34fa1e|394ce485-787f-4b04-b43a-47b3ca0f2ad4",
+          ""
+        ],
+        [
+          "hole_clearance|133450000|114495000|79a152be-6ffd-41d2-a21c-4320bb34fa1e|ffc20748-8355-4010-a7d7-65298650da6f",
+          ""
+        ],
+        [
+          "hole_clearance|139550000|114495000|bf5b796a-8fee-46cc-bef6-31afceed1a5a|4193b55a-9b30-41c9-af07-04fecec799ee",
+          ""
+        ],
+        [
+          "hole_clearance|139550000|114495000|bf5b796a-8fee-46cc-bef6-31afceed1a5a|87aa1294-f687-43ab-82d8-fdbdb5741b8b",
+          ""
+        ],
+        [
           "hole_clearance|93200000|138420000|792720ee-092f-4593-bd78-0ff49636f507|02d4eeb1-a3c5-450e-a6a7-aa0dc0961e4f",
           ""
         ],
@@ -817,7 +833,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
